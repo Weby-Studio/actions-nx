@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  greet:
     runs-on: ubuntu-latest
 
     steps:
